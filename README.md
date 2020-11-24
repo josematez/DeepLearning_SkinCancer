@@ -1,6 +1,3 @@
-# DeepLearning_SkinCancer
-Repositorio para el proyecto final del curso de IA de Samsung en la UMA. Grupo 1.
-
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/label.png)
 ## Proyecto final del curso de Inteligencia artificial, impartido por Samsung Campus Innovation y la Univerdad de Malaga
 ## Participates:
