@@ -5,6 +5,11 @@
 + Paula
 + Javier
 + Sergio
+
+## Tutores:
++ Antonio
++ Jose
+
 #### Decripcion del proyecto
 + El objetivo final del curso, consiste en contruir un modelo de inteligencia artificial, con la filosofia "Technology for Good", para solventar el problema del proyecto
 elegido.
@@ -38,5 +43,7 @@ Finalmente en el panel derecho, se tiene en la parte superior en color verde (be
 En la siguiente ejemplo se uso de una imagen de Melanoma de tipo maligna y es por ello que aparece el fondo de la parte superior del panel derecho en rojo.
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/CapturaMaligno.PNG)
+
+#### Conclusiones y comentarios finales
 
 
