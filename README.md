@@ -22,7 +22,7 @@ Las siguientes imagenes pertenecen al conjunto final utilizado para el entrenami
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/ham.png)
 
-#### Interfaz
+## Interfaz:
 
 Nuestra intención es contruir un modelo con la capacidad de distinguir entre las siete clases analizadas, con el fin de obtener un medio que permita con tan solo una imagen indicar con alta fiabilidad el tipo de patologia.
 
