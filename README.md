@@ -1,14 +1,14 @@
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/label.png)
 ## Proyecto final del curso de Inteligencia artificial, impartido por Samsung Campus Innovation y la Univerdad de Malaga
 ## Participates:
-+ Jose
-+ Paula
-+ Javier
-+ Sergio
++ José Luis Matez
++ Paula Ruiz Barroso
++ Javier Espinosa Montosa
++ Sergio Boggero Suaznabar
 
 ## Tutores:
-+ Antonio
-+ Jose
++ Antonio Jesús Nebro Urbaneja
++ José Manuel Garcia Nieto
 
 #### Decripcion del proyecto
 + El objetivo final del curso, consiste en contruir un modelo de inteligencia artificial, con la filosofia "Technology for Good", para solventar el problema del proyecto
@@ -40,7 +40,7 @@ Scan : El modelo analiza la imagen.
 
 Finalmente en el panel derecho, se tiene en la parte superior en color verde (benigno) la imagen predicha por el modelo y debajo todas las clases con la probabilidad asignada por la red, cuyos valores hace uso para determinar a que clase pertenece.
 
-En la siguiente ejemplo se uso de una imagen de Melanoma de tipo maligna y es por ello que aparece el fondo de la parte superior del panel derecho en rojo.
+En la siguiente ejemplo se uso una imagen de Melanoma y es por ello que aparece el fondo de la parte superior del panel derecho en rojo.
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/CapturaMaligno.PNG)
 
