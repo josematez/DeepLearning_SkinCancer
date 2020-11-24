@@ -1,4 +1,4 @@
-![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/label.png)
+![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/label.png)
 ## Proyecto final del curso de Inteligencia artificial, impartido por Samsung Campus Innovation y la Univerdad de Malaga
 ## Participates:
 + Jose
@@ -20,7 +20,7 @@ Estando el contenido desbalanceado, y con una resolucion mayor de lo necesario, 
 
 Las siguientes imagenes pertenecen al conjunto final utilizado para el entrenamiento de la red:
 
-![alt text](https://github.com/sergioBSS/prueba/blob/main/ham.png)
+![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/ham.png)
 
 #### Interfaz
 
@@ -30,7 +30,7 @@ A fin de darle una aplicabilidad se contruyo esta interfaz de muy facil uso.
 
 En la siguiente imagen se mostrara un ejemplo de su uso, para el cual se utilizo la imagen de un Dermatofibrona benigno.
 
-![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/CapturaBenigno.PNG)
+![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/CapturaBenigno.PNG)
 
 Como se observa en la imagen se tiene dos botones "Choose Image" y "Scan", como también una breve descripción y recomendaciones debajo de la imagen seleccionada.
 
@@ -42,7 +42,7 @@ Finalmente en el panel derecho, se tiene en la parte superior en color verde (be
 
 En la siguiente ejemplo se uso de una imagen de Melanoma de tipo maligna y es por ello que aparece el fondo de la parte superior del panel derecho en rojo.
 
-![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/CapturaMaligno.PNG)
+![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/CapturaMaligno.PNG)
 
 #### Conclusiones y comentarios finales
 
