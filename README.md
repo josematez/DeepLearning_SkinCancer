@@ -1,49 +1,48 @@
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/label.png)
-## Proyecto final del curso de Inteligencia artificial, impartido por Samsung Campus Innovation y la Univerdad de Malaga
-## Participates:
+## Final project of the Artificial Intelligence course, taught by Samsung Campus Innovation and the University of Malaga
+## Participants:
 + José Luis Matez
 + Paula Ruiz Barroso
 + Javier Espinosa Montosa
 + Sergio Boggero Suaznabar
 
-## Tutores:
+## Tutors:
 + Antonio Jesús Nebro Urbaneja
 + José Manuel Garcia Nieto
 
-#### Decripcion del proyecto
-+ El objetivo final del curso, consiste en contruir un modelo de inteligencia artificial, con la filosofia "Technology for Good", para solventar el problema del proyecto
-elegido.
-#### Eleccion del proyecto
-+ Se extrajo de Kaggle un Dataset de HAM10mil imagenes con 7 clases diferentes entre benignas y malignas. Un problema de clasificacion multiclase.
+#### Project description
++ The final objective of the course is to build an artificial intelligence model, with the "Technology for Good" philosophy, to solve the problem of the chosen project.
+#### Project choice
++ A Dataset of HAM10 thousand images with 7 different classes between benign and malignant was extracted from Kaggle. A multiclass classification problem.
 
-Estando el contenido desbalanceado, y con una resolucion mayor de lo necesario, por lo que se aplico un redimensionando, a 75x100 pixeles, como también se aplico data augmentation, rotación, traslación ruido, etc, a las clases de menor tamaño para igualandolas a la clase de mayor numero de imagenes. Consiguiendo al final, 6000 mil imagenes por clase.
+Being the content unbalanced and with a higher resolution than necessary, so a resizing was applied, at 75x100 pixels, as well as data augmentation, rotation, translation, noise, etc., to the smaller classes to equalize them to the class with the largest number of images. Getting in the end, 3000 thousand images per class.
 
-Las siguientes imagenes pertenecen al conjunto final utilizado para el entrenamiento de la red:
+The following images belong to the final set used for the training of the network:
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/ham.png)
 
-## Interfaz:
+## Interface:
 
-Nuestra intención es contruir un modelo con la capacidad de distinguir entre las siete clases analizadas, con el fin de obtener un medio que permita con tan solo una imagen indicar con alta fiabilidad el tipo de patologia.
+Our intention is to build a model with the ability to distinguish between the seven classes analyzed, in order to obtain a means that allows, with just one image, to indicate the type of pathology with high reliability.
 
-A fin de darle una aplicabilidad se contruyo esta interfaz de muy facil uso.
+In order to give it applicability, this very easy-to-use interface was built.
 
-En la siguiente imagen se mostrara un ejemplo de su uso, para el cual se utilizo la imagen de un Dermatofibrona benigno.
+In the following image an example of its use will be shown, for which the image of a benign Dermatofibrona was used.
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/CapturaBenigno.PNG)
 
-Como se observa en la imagen se tiene dos botones "Choose Image" y "Scan", como también una breve descripción y recomendaciones debajo de la imagen seleccionada.
+As can be seen in the image, there are two buttons "Choose Image" and "Scan", as well as a brief description and recommendations below the selected image.
 
-Choose Image : Usted selecciona la imagen a analizar del directorio en que se halle.
+Choose Image: You select the image to analyze from the directory in which it is located.
 
-Scan : El modelo analiza la imagen.
+Scan: The model analyzes the image.
 
-Finalmente en el panel derecho, se tiene en la parte superior en color verde (benigno) la imagen predicha por el modelo y debajo todas las clases con la probabilidad asignada por la red, cuyos valores hace uso para determinar a que clase pertenece.
+Finally, in the right panel, the image predicted by the model is in the upper part in green (benign) and below all the classes with the probability assigned by the network, whose values it uses to determine which class it belongs to.
 
-En la siguiente ejemplo se uso una imagen de Melanoma y es por ello que aparece el fondo de la parte superior del panel derecho en rojo.
+In the following example an image of Melanoma was used and that is why the background at the top of the right panel appears in red.
 
 ![alt text](https://github.com/josematez/DeepLearning_SkinCancer/blob/main/Images/CapturaMaligno.PNG)
 
-#### Conclusiones y comentarios finales
+#### Conclusions and final comments
 
 
