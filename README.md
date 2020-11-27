@@ -72,7 +72,7 @@ STEPS:
 	- keras 2.3.0
 	 -h5py 2.10.0
 
-3- With a terminal positioned in the root folder (The one with the source code and files), run the command below for build the .exe file. (pyinstaller 4.1 or higher is required in your enviroment or pc for this step)
+3- With a command prompt positioned in the root folder (The one with the source code and files), run the command below for build the .exe file. (pyinstaller 4.1 or higher is required in your enviroment or pc for this step)
 
 	pyinstaller --onefile -w SkinScan.py
 
