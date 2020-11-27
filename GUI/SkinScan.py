@@ -228,4 +228,4 @@ model.add(tf.keras.layers.Dense(n_classes, activation='softmax'))
 model.load_weights('./models/densenet_weights.hdf5') # Load the trained weights
 print('[INFO] Model loaded correctly!')
 
-root.mainloop() # End of the GUI loop
+root.mainloop() # End of the GUI loop 
